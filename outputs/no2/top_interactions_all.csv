@@ -1,0 +1,11 @@
+feature_a,feature_b,strength
+local_hour,wind_speed_ms_roll6,0.6204373650031995
+local_hour,relative_humidity_roll6,0.5376095267865407
+city_id,wind_speed_ms_roll6,0.399702633395987
+wind_speed_ms_roll6,relative_humidity_roll6,0.354278346156329
+local_hour,cloud_oktas,0.3498817682019459
+local_hour,day_of_week,0.3449193783590569
+city_id,local_hour,0.2548604561107395
+city_id,pressure_hpa,0.21425091273077604
+city_id,day_of_week,0.2084284080984804
+city_id,relative_humidity_roll6,0.18350557006100585

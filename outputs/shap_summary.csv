@@ -1,0 +1,6 @@
+target,n,weather_share,top_features,top_weather_pair
+pm25,20314,0.633,"city_id, wind_speed_ms_roll6, pressure_hpa, pressure_chg24, dewpoint_c",dewpoint_c x pressure_hpa
+pm10,18868,0.553,"city_id, wind_speed_ms_roll6, day_of_week, pressure_hpa, local_hour",pressure_hpa x pressure_chg24
+ozone,19589,0.658,"city_id, temperature_c_roll6, local_hour, wind_speed_ms_roll6, relative_humidity_roll6",temperature_c x temperature_c_roll6
+no2,14733,0.505,"city_id, wind_speed_ms_roll6, local_hour, day_of_week, relative_humidity_roll6",wind_speed_ms_roll6 x relative_humidity_roll6
+aqi,20332,0.658,"city_id, wind_speed_ms_roll6, pressure_hpa, pressure_chg24, dewpoint_c",wind_speed_ms_roll6 x temperature_c_roll6

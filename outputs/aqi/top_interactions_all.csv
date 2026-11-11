@@ -1,0 +1,11 @@
+feature_a,feature_b,strength
+wind_speed_ms_roll6,temperature_c_roll6,0.43590318771429803
+pressure_hpa,pressure_chg24,0.40274512795005907
+city_id,wind_speed_ms_roll6,0.3890890825277321
+dewpoint_c,pressure_hpa,0.3757180950188727
+city_id,pressure_chg24,0.300391418294903
+city_id,pressure_hpa,0.291391109438529
+pressure_hpa,wind_speed_ms_roll6,0.2730292360612369
+city_id,dewpoint_c,0.26376339475599675
+day_of_week,pressure_hpa,0.25983881600447484
+dewpoint_c,pressure_chg24,0.2558792263079522

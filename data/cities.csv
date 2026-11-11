@@ -1,0 +1,61 @@
+id,slug,name,state,lat,lon,timezone,nws_station_id,airnow_area,openaq_location_ids,data_source_note,is_active,created_at
+0bc76427-7d7f-454f-b00d-bdda9f67993a,columbia-sc,Columbia,SC,34.0007,-81.0348,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+7a76057c-e9e7-4db2-9f86-84902d69b9b5,oakland-ca,Oakland,CA,37.8044,-122.2712,America/Los_Angeles,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+9d6f23f2-4dd5-411d-9e85-3c29833f0db5,lamont-ok,Lamont,OK,36.6764,-97.5581,America/Chicago,null,null,[],Air and weather observations use the nearest reporting sites with recent data.,true,2026-10-28 04:22:37.399419+00
+bfca1015-ed74-42cd-9752-eae31fb788d5,new-york-ny,New York,NY,40.7128,-74.006,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+852f6412-71d6-4d13-9d6b-c65ca2927f86,los-angeles-ca,Los Angeles,CA,34.0522,-118.2437,America/Los_Angeles,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+c43cd74b-1401-4dfa-aa74-59fccc07857d,chicago-il,Chicago,IL,41.8781,-87.6298,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+1c80aa94-28e2-44ea-84ca-9c77cad0e150,houston-tx,Houston,TX,29.7604,-95.3698,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+8a4c5389-a7e7-4d93-9b74-06dfd4438db4,phoenix-az,Phoenix,AZ,33.4484,-112.074,America/Phoenix,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+194b75de-dd95-4289-b165-e8ec17b44f8c,philadelphia-pa,Philadelphia,PA,39.9526,-75.1652,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+7d739e91-050f-4e06-adb4-7860de1bd3d9,san-antonio-tx,San Antonio,TX,29.4241,-98.4936,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+3997dc8c-b5a7-4b6e-8328-e462dc52dc9e,san-diego-ca,San Diego,CA,32.7157,-117.1611,America/Los_Angeles,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+095db91b-1912-42e5-a255-68aed1fed31a,dallas-tx,Dallas,TX,32.7767,-96.797,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+9dda1fe9-04ff-47dc-80f7-e9074918363e,jacksonville-fl,Jacksonville,FL,30.3322,-81.6557,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+0790592a-dee7-467a-981c-f9731f55c4ed,fort-worth-tx,Fort Worth,TX,32.7555,-97.3308,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+c9dd562d-9ad2-4148-8560-5f3faa9a1d1f,san-jose-ca,San Jose,CA,37.3382,-121.8863,America/Los_Angeles,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+0c388658-5f4c-4fc2-81e1-c1482bc05a3e,austin-tx,Austin,TX,30.2672,-97.7431,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+d18d198f-ed4d-46d6-903f-a35a44a60a9b,charlotte-nc,Charlotte,NC,35.2271,-80.8431,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+f9b7e8fd-d2ff-4155-a04b-a7999eebbd71,columbus-oh,Columbus,OH,39.9612,-82.9988,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+5c05c732-596d-46aa-805d-95d18be67bc6,indianapolis-in,Indianapolis,IN,39.7684,-86.1581,America/Indiana/Indianapolis,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+3adc7c98-7a4b-418e-b201-31ba3a6fa4f9,san-francisco-ca,San Francisco,CA,37.7749,-122.4194,America/Los_Angeles,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+9b77731a-d760-4ef6-a2e7-e9058fe72465,seattle-wa,Seattle,WA,47.6062,-122.3321,America/Los_Angeles,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+52e73bcf-a066-478f-aa53-ee2eeb278300,denver-co,Denver,CO,39.7392,-104.9903,America/Denver,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+ce7f9169-89ce-4a31-b1a7-3280a7ec1c24,washington-dc,Washington,DC,38.9072,-77.0369,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+354cd654-a85d-4054-bacf-d13958439520,nashville-tn,Nashville,TN,36.1627,-86.7816,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+8494f319-16c2-42d3-8e44-912dd111e7f4,oklahoma-city-ok,Oklahoma City,OK,35.4676,-97.5164,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+9c331f30-0797-4422-98a7-2fafc7a43cfc,el-paso-tx,El Paso,TX,31.7619,-106.485,America/Denver,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+97fd3ac1-c4f4-4ac7-a17a-26977fa7a63d,boston-ma,Boston,MA,42.3601,-71.0589,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+1359526f-751c-408f-978e-5fa79e8b624f,portland-or,Portland,OR,45.5152,-122.6784,America/Los_Angeles,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+1907f42a-00f8-4477-843b-84a5bcd3451d,las-vegas-nv,Las Vegas,NV,36.1699,-115.1398,America/Los_Angeles,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+302a368a-df5c-4423-8126-2ead8d140ab8,detroit-mi,Detroit,MI,42.3314,-83.0458,America/Detroit,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+66623163-4628-4384-bf15-fa3add5b49c8,memphis-tn,Memphis,TN,35.1495,-90.049,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+21b48e25-737c-48a5-abfa-691f7c878939,louisville-ky,Louisville,KY,38.2527,-85.7585,America/Kentucky/Louisville,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+eeeacbfa-e592-43f1-ac1c-e57a73c2cc98,baltimore-md,Baltimore,MD,39.2904,-76.6122,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+a2995630-7f18-497b-9f8a-3f276f0ba529,milwaukee-wi,Milwaukee,WI,43.0389,-87.9065,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+99703ef6-3ea4-4325-86ce-cda8b152e102,albuquerque-nm,Albuquerque,NM,35.0844,-106.6504,America/Denver,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+217a7962-6b1a-4660-a756-e93a88541ec1,tucson-az,Tucson,AZ,32.2226,-110.9747,America/Phoenix,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+97a8a087-b6eb-4221-9f58-148fe8962ce8,fresno-ca,Fresno,CA,36.7378,-119.7871,America/Los_Angeles,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+33b43cc2-8d8e-492e-bb87-4a162e16ff05,sacramento-ca,Sacramento,CA,38.5816,-121.4944,America/Los_Angeles,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+2dfd6c8f-1b1f-438a-8c22-bacc5b21f4fe,mesa-az,Mesa,AZ,33.4152,-111.8315,America/Phoenix,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+d136598d-e058-4e04-88f4-f57ade9d373b,atlanta-ga,Atlanta,GA,33.749,-84.388,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+314df8ee-683e-4fbe-94b3-4016c165a08c,kansas-city-mo,Kansas City,MO,39.0997,-94.5786,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+af005abd-a446-454a-8db6-70a56525ea25,colorado-springs-co,Colorado Springs,CO,38.8339,-104.8214,America/Denver,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+2a7144d0-b931-48db-96fc-f45936307fef,omaha-ne,Omaha,NE,41.2565,-95.9345,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+8deb9f08-015b-4e87-8404-049823ee8809,raleigh-nc,Raleigh,NC,35.7796,-78.6382,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+79a99450-a48f-4d69-bcf6-f3931b124fb6,miami-fl,Miami,FL,25.7617,-80.1918,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+ee829cb0-dad5-4b22-bea6-3b13b5f58e04,virginia-beach-va,Virginia Beach,VA,36.8529,-75.978,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+be183cd9-3b4f-46e7-9a4d-7d95ee838932,long-beach-ca,Long Beach,CA,33.7701,-118.1937,America/Los_Angeles,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+77b715b9-76ef-4e7d-b8aa-f2dff330ac76,minneapolis-mn,Minneapolis,MN,44.9778,-93.265,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+31eecfe6-eb64-4a0c-95df-fe382b58804d,tampa-fl,Tampa,FL,27.9506,-82.4572,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+e71e7821-d699-450c-8d6a-5cc092571793,new-orleans-la,New Orleans,LA,29.9511,-90.0715,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+8396a0cf-31d3-4d87-8421-faa1b86a2ec8,cleveland-oh,Cleveland,OH,41.4993,-81.6944,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+528e2f39-8278-49d2-bd55-0302bce556e3,honolulu-hi,Honolulu,HI,21.3099,-157.8581,Pacific/Honolulu,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+f596e5ba-34d4-4bc1-8821-f805f114843b,anchorage-ak,Anchorage,AK,61.2181,-149.9003,America/Anchorage,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+22240bf4-0f81-4c49-826a-f1aa5e7943c0,pittsburgh-pa,Pittsburgh,PA,40.4406,-79.9959,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+436e3bfb-d2af-41fd-8a3b-a9d1fa1bdfff,st-louis-mo,St. Louis,MO,38.627,-90.1994,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+9843d3a2-0fc5-46ee-aa35-c7d7781ad24a,cincinnati-oh,Cincinnati,OH,39.1031,-84.512,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+cb939ebc-9185-443a-b64d-7f1d9b6f8094,salt-lake-city-ut,Salt Lake City,UT,40.7608,-111.891,America/Denver,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+7b826648-77f5-4205-a8f9-a98481ad87d6,boise-id,Boise,ID,43.615,-116.2023,America/Boise,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+555b7b26-a8e0-47da-8ff7-fc28b4af501d,birmingham-al,Birmingham,AL,33.5186,-86.8104,America/Chicago,null,null,[],null,true,2026-10-28 04:22:37.399419+00
+87e2dc20-ad28-4ca2-aa11-bb5cbfbfa222,charleston-sc,Charleston,SC,32.7765,-79.9311,America/New_York,null,null,[],null,true,2026-10-28 04:22:37.399419+00
